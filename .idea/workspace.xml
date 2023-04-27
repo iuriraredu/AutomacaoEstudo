@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6385a412-03c6-4285-9ccc-35fcff466a57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/config/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/config/ConfigurationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/data/changeless/BrowserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/data/dynamic/BookingDataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/driver/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/driver/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/driver/TargetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/enums/RoomType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/enums/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/exceptions/HeadlessNotSupportedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/model/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/model/BookingBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/page/AbstractPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/page/booking/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/page/booking/DetailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/page/booking/RoomPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/page/booking/common/NavigationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/iuriraredu/report/AllureManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/iuriraredu/BaseWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/iuriraredu/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/iuriraredu/test/BookRoomWebTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/general.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/selenium-grid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/browserstack.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/selenium-grid.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Oz4ioX9nCHQhfiZKab7scOrczY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/iuriraredu/Documents/GitHub/AutomacaoEstudo/src/main/java/br/com/iuriraredu/page/booking"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.iuriraredu.page.booking" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookRoomWebTest.bookARoom" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomacaoEstudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.iuriraredu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.iuriraredu.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.iuriraredu.test.BookRoomWebTest" />
+      <option name="METHOD_NAME" value="bookARoom" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BookRoomWebTest.bookARoom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6385a412-03c6-4285-9ccc-35fcff466a57" name="Changes" comment="" />
+      <created>1682550205711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682550205711</updated>
+    </task>
+    <servers />
+  </component>
+</project>
