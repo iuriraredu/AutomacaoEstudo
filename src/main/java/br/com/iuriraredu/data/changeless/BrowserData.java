@@ -1,5 +1,9 @@
 package br.com.iuriraredu.data.changeless;
 
+/**
+ *  A classe BrowserData serve para retornar valores padrões para a inicialização do browser,
+ *  como desabililtar notificações ou maximizar a tela do navegador
+ */
 public final class BrowserData{
     private BrowserData() {
     }

@@ -4,6 +4,12 @@ import org.aeonbits.owner.Config;
 import org.aeonbits.owner.Config.LoadType;
 import org.aeonbits.owner.Config.LoadPolicy;
 
+/**
+ *  interface Configuration
+ *  Objetivo: Pegar os valores configurados nos arquivos .properties
+ *  listados dentro do @Config.Sources({})
+ *
+ */
 @LoadPolicy(LoadType.MERGE)
 @Config.Sources({
         "system:properties",
